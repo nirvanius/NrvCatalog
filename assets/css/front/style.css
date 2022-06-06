@@ -1,0 +1,131 @@
+.archive-body {
+/* max-width: 1200px; */
+width: 80%;
+margin: 0 auto;
+text-align: center;
+}
+.archive-kard {
+   margin: 0 auto;
+   width: 100%;
+}
+html{
+
+   width: 100%;
+   max-width: 100%;
+   overflow-x: hidden;
+}
+ .red {
+ color: red;
+ font-weight: bold;
+ }
+ .single-nrvcatalog {
+   display: inline-flex;
+   /* align-items: center; */
+   width: 100%;
+   /* text-align: center; */
+ }
+ .nrv-offer-section {
+    width: 40%;
+    text-align: center;
+    margin: 5px;
+    border-right: 1px solid rgb(228, 228, 228);
+ }
+ .nrv-content-section {
+   width: 60%;
+   margin: 5px;
+ }
+ .nrv-offer-table td {
+    border: none;
+ }
+ .nrv-offer-table {
+   border: none;
+}
+  .border_kard {
+    border: 1px solid rgb(124, 124, 124);  
+    /* border-radius: 10px; */
+    width: 100%;
+    padding: 0;
+
+    /* margin: 5px; */
+ }
+ .kartochka {
+   border: 1px solid rgb(124, 124, 124); 
+    display: inline-flex;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+    padding: 0;
+
+ }
+ .logo {
+    width: 20%;
+ }
+ .ofer_body {
+    width: 60%;
+    padding: 0;
+ }
+ .ofer_body a {
+    color: #4479a5;
+ }
+ .ofer_body label {
+    width: 23%;
+ }
+ .button {
+    /* border: 5px solid; */
+    /* border-color: black; */
+    align-items: center;
+    width: 20%;
+    background: none;
+    padding: 0;
+ }
+  .button_ofer {
+     /* align-items: center; */
+    text-shadow: 2px 2px 3px #000;
+    color: rgb(255, 251, 0);
+    padding: 8px 15px;
+    white-space: nowrap;
+    background: #a0a0a0;
+    border: 2px solid;
+    border-color: #191970;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+ }
+ .button_ofer:hover {
+    padding: 11px;
+    text-shadow: 3px 3px 2px black;
+    color: rgb(240, 255, 108);
+    background: #777777;
+    cursor: pointer;
+    border-radius: 10px;
+ }
+ @media screen and (max-width: 640px) {
+   .single-nrvcatalog {
+      display: block;
+      margin:0 auto;
+    }
+    .nrv-offer-section {
+      width: 100%;
+      margin:0 auto;
+    }
+    .nrv-content-section {
+      width: 100%;
+      margin:0 auto;
+    }
+    .kartochka  {
+    display: block;
+    margin:0 auto;
+    }
+ .logo {
+     width: 100%;
+     margin:0 auto;
+     } 
+ .ofer_body {
+     width: 100%;
+     margin:0 auto;
+     } 
+ .button {
+      width: 100%;
+      margin:0 auto;
+      }
+    }

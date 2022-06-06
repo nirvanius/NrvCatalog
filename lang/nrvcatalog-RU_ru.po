@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nrvcatalog\n"
+"POT-Creation-Date: 2022-05-23 12:35+0500\n"
+"PO-Revision-Date: 2022-05-23 12:36+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/class-nrvcatalog-excel.php:17
+msgid "Excel import-export"
+msgstr "Импорт-экспорт Excel"
+
+#: inc/class-nrvcatalog-excel.php:18
+msgid "Excel import/export"
+msgstr "Импорт и экспорт Excel"
+
+#: inc/class-nrvcatalogcpt.php:16
+msgid "Product Settings"
+msgstr "Настройки товара"
+
+#: inc/class-nrvcatalogcpt.php:130
+msgid "Key name"
+msgstr "ID продукта"
+
+#: inc/class-nrvcatalogcpt.php:141
+msgid "Image link"
+msgstr "Ссылка на изображение"
+
+#: inc/class-nrvcatalogcpt.php:145
+msgid "Credit"
+msgstr "Сумма"
+
+#: inc/class-nrvcatalogcpt.php:149
+msgid "Period"
+msgstr "Период"
+
+#: inc/class-nrvcatalogcpt.php:155
+msgid "Name"
+msgstr "Название продукта"
+
+#: inc/class-nrvcatalogcpt.php:159
+msgid "Referal link"
+msgstr "Партнерская ссылка"
+
+#: inc/class-nrvcatalogcpt.php:163
+msgid "Rate"
+msgstr "Ставка"
+
+#: inc/class-nrvcatalogcpt.php:169
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: inc/class-nrvcatalogcpt.php:173
+msgid "Telephone"
+msgstr "Телефон"
+
+#: inc/class-nrvcatalogcpt.php:177
+msgid "License"
+msgstr "Лицензия"
+
+#: inc/class-nrvcatalogcpt.php:183
+msgid "Approval"
+msgstr "Одобрение"
+
+#: inc/class-nrvcatalogcpt.php:187
+msgid "Age"
+msgstr "Возраст"
+
+#: inc/class-nrvcatalogcpt.php:191
+msgid "Address"
+msgstr "Адрес"
+
+#: inc/class-nrvcatalogcpt.php:197
+msgid "Description"
+msgstr "Описание"
+
+#: inc/class-nrvcatalogcpt.php:201
+msgid "Note (optional)"
+msgstr "Примечание (необязательно)"
+
+#: inc/class-nrvcatalogcpt.php:208
+msgid "Shorcode is"
+msgstr "Шорткод на этот продукт"
+
+#: inc/class-nrvcatalogcpt.php:259
+msgid "Catalog"
+msgstr "Каталог"
+
+#: inc/class-nrvcatalogcpt.php:261
+msgid "New product"
+msgstr "Новый продукт"
+
+#: inc/class-nrvcatalogcpt.php:262
+msgid "Edit product"
+msgstr "Изменить продукт"
+
+#: inc/class-nrvcatalogcpt.php:263
+msgid "Add new product"
+msgstr "Добавьте новый продукт"
+
+#: nrvcatalog.php:50
+msgid "Shortcoder"
+msgstr "Шорткод"
+
+#~ msgid "Note"
+#~ msgstr "Пометки"
+
+#~ msgid "Price"
+#~ msgstr "Цена"
+
+#~ msgid "Prices"
+#~ msgstr "Цены"
+
+#~ msgid "Search Prices"
+#~ msgstr "Поиск цен"
+
+#~ msgid "All Prices"
+#~ msgstr "Все цены"
+
+#~ msgid "View Price"
+#~ msgstr "Смотреть цену"
+
+#~ msgid "Parent Price"
+#~ msgstr "Родительская цена"
+
+#~ msgid "Parent Price:"
+#~ msgstr "Родительская цена:"
+
+#~ msgid "Edit Price"
+#~ msgstr "Изменить цену"
+
+#~ msgid "Update Price"
+#~ msgstr "Обновить цену"
+
+#~ msgid "Add New Price"
+#~ msgstr "Добавить новую цену"
+
+#~ msgid "New Price Name"
+#~ msgstr "Название для новой цены"
+
+#~ msgid "No Prices Found"
+#~ msgstr "Цена не найдена"
+
+#~ msgid "Back to Prices"
+#~ msgstr "Вернуться к ценам"

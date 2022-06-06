@@ -1,0 +1,468 @@
+#tabszaimigo {
+   width: 100%;
+   padding: 0px;
+   margin: 0 auto;
+   text-align: left;
+}
+
+#tabszaimigo>input {
+   display: none;
+}
+
+#tabszaimigo>div {
+   display: none;
+   /* border: 1px solid #C0C0C0; */
+   text-align: center;
+
+}
+
+#tabszaimigo>label {
+   display: inline-block;
+   padding: 2px;
+   background: #EEEEEE;
+   margin: 0 -5px -1px 0;
+   text-align: center;
+   color: #666666;
+   border: 1px solid #C0C0C0;
+   cursor: pointer;
+}
+
+#tabszaimigo>input:checked+label {
+   color: #191970;
+   font-weight: bold;
+   border: 1px solid #C0C0C0;
+   border-bottom: 1px solid #FFFFFF;
+   background: #FFFFFF;
+
+}
+
+#tab_1zaimigo:checked~#txt_1zaimigo,
+#tab_2zaimigo:checked~#txt_2zaimigo,
+#tab_3zaimigo:checked~#txt_3zaimigo,
+#tab_4zaimigo:checked~#txt_4zaimigo {
+   display: block;
+}
+
+#tabskapusta {
+   width: 100%;
+   padding: 0px;
+   margin: 0 auto;
+   text-align: left;
+}
+
+#tabskapusta>input {
+   display: none;
+}
+
+#tabskapusta>div {
+   display: none;
+   /* border: 1px solid #C0C0C0; */
+   text-align: center;
+
+}
+
+#tabskapusta>label {
+   display: inline-block;
+   padding: 2px;
+   background: #EEEEEE;
+   margin: 0 -5px -1px 0;
+   text-align: center;
+   color: #666666;
+   border: 1px solid #C0C0C0;
+   cursor: pointer;
+}
+
+#tabskapusta>input:checked+label {
+   color: #191970;
+   font-weight: bold;
+   border: 1px solid #C0C0C0;
+   border-bottom: 1px solid #FFFFFF;
+   background: #FFFFFF;
+
+}
+
+#tab_1kapusta:checked~#txt_1kapusta,
+#tab_2kapusta:checked~#txt_2kapusta,
+#tab_3kapusta:checked~#txt_3kapusta,
+#tab_4kapusta:checked~#txt_4kapusta {
+   display: block;
+}
+
+
+#tabszajmer {
+   width: 100%;
+   padding: 0px;
+   margin: 0 auto;
+   text-align: left;
+}
+
+#tabszajmer>input {
+   display: none;
+}
+
+#tabszajmer>div {
+   display: none;
+   /* border: 1px solid #C0C0C0; */
+   text-align: center;
+
+}
+
+#tabszajmer>label {
+   display: inline-block;
+   padding: 2px;
+   background: #EEEEEE;
+   margin: 0 -5px -1px 0;
+   text-align: center;
+   color: #666666;
+   border: 1px solid #C0C0C0;
+   cursor: pointer;
+}
+
+#tabszajmer>input:checked+label {
+   color: #191970;
+   font-weight: bold;
+   border: 1px solid #C0C0C0;
+   border-bottom: 1px solid #FFFFFF;
+   background: #FFFFFF;
+
+}
+
+#tab_1zajmer:checked~#txt_1zajmer,
+#tab_2zajmer:checked~#txt_2zajmer,
+#tab_3zajmer:checked~#txt_3zajmer,
+#tab_4zajmer:checked~#txt_4zajmer {
+   display: block;
+}
+          #tabsvivus { 
+            width: 100%;
+            padding: 0px;
+            margin: 0 auto;
+            text-align: left;
+            }
+         #tabsvivus>input { display: none; }
+         #tabsvivus>div {
+            display: none;
+            /* border: 1px solid #C0C0C0; */
+            text-align: center;
+            
+         }
+         #tabsvivus>label {
+            display: inline-block;
+            padding: 2px;
+            background: #EEEEEE;
+            margin: 0 -5px -1px 0;
+            text-align: center;
+            color: #666666;
+            border: 1px solid #C0C0C0;
+            cursor: pointer;
+         }
+         #tabsvivus>input:checked + label {
+            color: #191970;
+            font-weight:bold;
+            border: 1px solid #C0C0C0;
+            border-bottom: 1px solid #FFFFFF;
+            background: #FFFFFF;
+         
+         }
+         #tab_1vivus:checked ~ #txt_1vivus,
+         #tab_2vivus:checked ~ #txt_2vivus,
+         #tab_3vivus:checked ~ #txt_3vivus,
+         #tab_4vivus:checked ~ #txt_4vivus { display: block; }
+        
+          
+          #tabsveb-zajm { 
+            width: 100%;
+            padding: 0px;
+            margin: 0 auto;
+            text-align: left;
+            }
+         #tabsveb-zajm>input { display: none; }
+         #tabsveb-zajm>div {
+            display: none;
+            /* border: 1px solid #C0C0C0; */
+            text-align: center;
+            
+         }
+         #tabsveb-zajm>label {
+            display: inline-block;
+            padding: 2px;
+            background: #EEEEEE;
+            margin: 0 -5px -1px 0;
+            text-align: center;
+            color: #666666;
+            border: 1px solid #C0C0C0;
+            cursor: pointer;
+         }
+         #tabsveb-zajm>input:checked + label {
+            color: #191970;
+            font-weight:bold;
+            border: 1px solid #C0C0C0;
+            border-bottom: 1px solid #FFFFFF;
+            background: #FFFFFF;
+         
+         }
+         #tab_1veb-zajm:checked ~ #txt_1veb-zajm,
+         #tab_2veb-zajm:checked ~ #txt_2veb-zajm,
+         #tab_3veb-zajm:checked ~ #txt_3veb-zajm,
+         #tab_4veb-zajm:checked ~ #txt_4veb-zajm { display: block; }
+        
+          
+          #tabsmanimen { 
+            width: 100%;
+            padding: 0px;
+            margin: 0 auto;
+            text-align: left;
+            }
+         #tabsmanimen>input { display: none; }
+         #tabsmanimen>div {
+            display: none;
+            /* border: 1px solid #C0C0C0; */
+            text-align: center;
+            
+         }
+         #tabsmanimen>label {
+            display: inline-block;
+            padding: 2px;
+            background: #EEEEEE;
+            margin: 0 -5px -1px 0;
+            text-align: center;
+            color: #666666;
+            border: 1px solid #C0C0C0;
+            cursor: pointer;
+         }
+         #tabsmanimen>input:checked + label {
+            color: #191970;
+            font-weight:bold;
+            border: 1px solid #C0C0C0;
+            border-bottom: 1px solid #FFFFFF;
+            background: #FFFFFF;
+         
+         }
+         #tab_1manimen:checked ~ #txt_1manimen,
+         #tab_2manimen:checked ~ #txt_2manimen,
+         #tab_3manimen:checked ~ #txt_3manimen,
+         #tab_4manimen:checked ~ #txt_4manimen { display: block; }
+        
+          
+          #tabszaymigo { 
+            width: 100%;
+            padding: 0px;
+            margin: 0 auto;
+            text-align: left;
+            }
+         #tabszaymigo>input { display: none; }
+         #tabszaymigo>div {
+            display: none;
+            /* border: 1px solid #C0C0C0; */
+            text-align: center;
+            
+         }
+         #tabszaymigo>label {
+            display: inline-block;
+            padding: 2px;
+            background: #EEEEEE;
+            margin: 0 -5px -1px 0;
+            text-align: center;
+            color: #666666;
+            border: 1px solid #C0C0C0;
+            cursor: pointer;
+         }
+         #tabszaymigo>input:checked + label {
+            color: #191970;
+            font-weight:bold;
+            border: 1px solid #C0C0C0;
+            border-bottom: 1px solid #FFFFFF;
+            background: #FFFFFF;
+         
+         }
+         #tab_1zaymigo:checked ~ #txt_1zaymigo,
+         #tab_2zaymigo:checked ~ #txt_2zaymigo,
+         #tab_3zaymigo:checked ~ #txt_3zaymigo,
+         #tab_4zaymigo:checked ~ #txt_4zaymigo { display: block; }
+        
+          
+          #tabswebzaim { 
+            width: 100%;
+            padding: 0px;
+            margin: 0 auto;
+            text-align: left;
+            }
+         #tabswebzaim>input { display: none; }
+         #tabswebzaim>div {
+            display: none;
+            /* border: 1px solid #C0C0C0; */
+            text-align: center;
+            
+         }
+         #tabswebzaim>label {
+            display: inline-block;
+            padding: 2px;
+            background: #EEEEEE;
+            margin: 0 -5px -1px 0;
+            text-align: center;
+            color: #666666;
+            border: 1px solid #C0C0C0;
+            cursor: pointer;
+         }
+         #tabswebzaim>input:checked + label {
+            color: #191970;
+            font-weight:bold;
+            border: 1px solid #C0C0C0;
+            border-bottom: 1px solid #FFFFFF;
+            background: #FFFFFF;
+         
+         }
+         #tab_1webzaim:checked ~ #txt_1webzaim,
+         #tab_2webzaim:checked ~ #txt_2webzaim,
+         #tab_3webzaim:checked ~ #txt_3webzaim,
+         #tab_4webzaim:checked ~ #txt_4webzaim { display: block; }
+        
+          
+          #tabszaimer { 
+            width: 100%;
+            padding: 0px;
+            margin: 0 auto;
+            text-align: left;
+            }
+         #tabszaimer>input { display: none; }
+         #tabszaimer>div {
+            display: none;
+            /* border: 1px solid #C0C0C0; */
+            text-align: center;
+            
+         }
+         #tabszaimer>label {
+            display: inline-block;
+            padding: 2px;
+            background: #EEEEEE;
+            margin: 0 -5px -1px 0;
+            text-align: center;
+            color: #666666;
+            border: 1px solid #C0C0C0;
+            cursor: pointer;
+         }
+         #tabszaimer>input:checked + label {
+            color: #191970;
+            font-weight:bold;
+            border: 1px solid #C0C0C0;
+            border-bottom: 1px solid #FFFFFF;
+            background: #FFFFFF;
+         
+         }
+         #tab_1zaimer:checked ~ #txt_1zaimer,
+         #tab_2zaimer:checked ~ #txt_2zaimer,
+         #tab_3zaimer:checked ~ #txt_3zaimer,
+         #tab_4zaimer:checked ~ #txt_4zaimer { display: block; }
+        
+          
+          #tabse-kapusta { 
+            width: 100%;
+            padding: 0px;
+            margin: 0 auto;
+            text-align: left;
+            }
+         #tabse-kapusta>input { display: none; }
+         #tabse-kapusta>div {
+            display: none;
+            /* border: 1px solid #C0C0C0; */
+            text-align: center;
+            
+         }
+         #tabse-kapusta>label {
+            display: inline-block;
+            padding: 2px;
+            background: #EEEEEE;
+            margin: 0 -5px -1px 0;
+            text-align: center;
+            color: #666666;
+            border: 1px solid #C0C0C0;
+            cursor: pointer;
+         }
+         #tabse-kapusta>input:checked + label {
+            color: #191970;
+            font-weight:bold;
+            border: 1px solid #C0C0C0;
+            border-bottom: 1px solid #FFFFFF;
+            background: #FFFFFF;
+         
+         }
+         #tab_1e-kapusta:checked ~ #txt_1e-kapusta,
+         #tab_2e-kapusta:checked ~ #txt_2e-kapusta,
+         #tab_3e-kapusta:checked ~ #txt_3e-kapusta,
+         #tab_4e-kapusta:checked ~ #txt_4e-kapusta { display: block; }
+        
+          
+          #tabsturbozaim { 
+            width: 100%;
+            padding: 0px;
+            margin: 0 auto;
+            text-align: left;
+            }
+         #tabsturbozaim>input { display: none; }
+         #tabsturbozaim>div {
+            display: none;
+            /* border: 1px solid #C0C0C0; */
+            text-align: center;
+            
+         }
+         #tabsturbozaim>label {
+            display: inline-block;
+            padding: 2px;
+            background: #EEEEEE;
+            margin: 0 -5px -1px 0;
+            text-align: center;
+            color: #666666;
+            border: 1px solid #C0C0C0;
+            cursor: pointer;
+         }
+         #tabsturbozaim>input:checked + label {
+            color: #191970;
+            font-weight:bold;
+            border: 1px solid #C0C0C0;
+            border-bottom: 1px solid #FFFFFF;
+            background: #FFFFFF;
+         
+         }
+         #tab_1turbozaim:checked ~ #txt_1turbozaim,
+         #tab_2turbozaim:checked ~ #txt_2turbozaim,
+         #tab_3turbozaim:checked ~ #txt_3turbozaim,
+         #tab_4turbozaim:checked ~ #txt_4turbozaim { display: block; }
+        
+          
+          #tabsplatiza { 
+            width: 100%;
+            padding: 0px;
+            margin: 0 auto;
+            text-align: left;
+            }
+         #tabsplatiza>input { display: none; }
+         #tabsplatiza>div {
+            display: none;
+            /* border: 1px solid #C0C0C0; */
+            text-align: center;
+            
+         }
+         #tabsplatiza>label {
+            display: inline-block;
+            padding: 2px;
+            background: #EEEEEE;
+            margin: 0 -5px -1px 0;
+            text-align: center;
+            color: #666666;
+            border: 1px solid #C0C0C0;
+            cursor: pointer;
+         }
+         #tabsplatiza>input:checked + label {
+            color: #191970;
+            font-weight:bold;
+            border: 1px solid #C0C0C0;
+            border-bottom: 1px solid #FFFFFF;
+            background: #FFFFFF;
+         
+         }
+         #tab_1platiza:checked ~ #txt_1platiza,
+         #tab_2platiza:checked ~ #txt_2platiza,
+         #tab_3platiza:checked ~ #txt_3platiza,
+         #tab_4platiza:checked ~ #txt_4platiza { display: block; }
+        
+          

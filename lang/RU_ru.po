@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nrvcatalog\n"
+"POT-Creation-Date: 2022-05-16 16:28+0500\n"
+"PO-Revision-Date: 2022-05-16 16:46+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/cpt.php:58 inc/cpt.php:73 inc/cpt.php:85
+msgid "Price"
+msgstr "Цена"
+
+#: inc/cpt.php:62
+msgid "Period"
+msgstr "Период"
+
+#: inc/cpt.php:72
+msgid "Prices"
+msgstr "Цены"
+
+#: inc/cpt.php:74
+msgid "Search Prices"
+msgstr "Поиск цен"
+
+#: inc/cpt.php:75
+msgid "All Prices"
+msgstr "Все цены"
+
+#: inc/cpt.php:76
+msgid "View Price"
+msgstr "Смотреть цену"
+
+#: inc/cpt.php:77
+msgid "Parent Price"
+msgstr "Родительская цена"
+
+#: inc/cpt.php:78
+msgid "Parent Price:"
+msgstr "Родительская цена:"
+
+#: inc/cpt.php:79
+msgid "Edit Price"
+msgstr "Изменить цену"
+
+#: inc/cpt.php:80
+msgid "Update Price"
+msgstr "Обновить цену"
+
+#: inc/cpt.php:81
+msgid "Add New Price"
+msgstr "Добавить новую цену"
+
+#: inc/cpt.php:82
+msgid "New Price Name"
+msgstr "Название для новой цены"
+
+#: inc/cpt.php:83
+msgid "No Prices Found"
+msgstr "Цена не найдена"
+
+#: inc/cpt.php:84
+msgid "Back to Prices"
+msgstr "Вернуться к ценам"
+
+#: inc/cpt.php:104
+msgid "Catalog"
+msgstr "Каталог"
+
+#: inc/cpt.php:106
+msgid "New product"
+msgstr "Новый продукт"
+
+#: inc/cpt.php:107
+msgid "Edit product"
+msgstr "Изменить продукт"
+
+#: inc/cpt.php:108
+msgid "Add new product"
+msgstr "Добавьте новый продукт"
